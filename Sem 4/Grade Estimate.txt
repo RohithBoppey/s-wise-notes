@@ -1,0 +1,17 @@
+FSD - 10 (40) / 7 (28)
+TOC - 8 (32)
+AI - 9 (36)
+CCN - 10 (40) / 9 (36)
+PGP - 10 (20)
+ACS - 10 (20)
+
+Total - 20
+Scenarios : 9.40 ; 9.20 ; 8.80 ; 8.60
+
+Sem1 : 9.78
+Sem2 : 9.56			Current Cumulative : 9.71
+Sem3 : 9.81
+
+Total : 29.15 
+Cumulative : 9.63 ; 9.58 ; 9.48 ; 9.43
+
