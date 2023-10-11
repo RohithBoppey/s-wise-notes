@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 
 
 def motionDetection():
-    cap = cv.VideoCapture("./opencv-test.mp4")
+    cap = cv.VideoCapture("./video.mp4")
     ret, frame1 = cap.read()
     ret, frame2 = cap.read()
 
